@@ -36,7 +36,7 @@ jobs:
           path: results.json
   
   additional_test:
-   name: k6 Load Test
+   name: additional_Test
    runs-on: ubuntu-latest
 
    steps:
